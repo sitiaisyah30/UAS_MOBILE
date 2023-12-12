@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">UAS Aisyah</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Bakso</item>
+        <item>Sate</item>
+        <item>Ayam Geprek</item>
+        <item>Ayam Goreng</item>
+        <item>Sayur Kangkung</item>
+        <item>Mie Ayam</item>
+        <item>Kentang Goreng</item>
+        <item>Ayam Bakar</item>
+        <item>Ikan Bakar</item>
+        <item>Gado-Gado</item>
+        <item>Sushi</item>
+        <item>Nasi Kuning</item>
+        <item>Nasi Campur</item>
+        <item>Nasi Goreng</item>
+        <item>Coto Makassar</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Bakso adalah bola daging yang umumnya terbuat dari campuran daging sapi dan tepung tapioka. Biasanya disajikan dalam sup kaldu dengan tambahan mie, tahu, pangsit, dan sayuran.</item>
+        <item>Sate adalah makanan yang terdiri dari potongan daging (biasanya daging ayam, sapi, atau kambing) yang ditusuk dan dipanggang, kemudian disajikan dengan saus kacang atau saus kecap.</item>
+        <item>Ayam geprek adalah hidangan Indonesia yang terdiri dari ayam goreng yang diulek atau dihancurkan dan disajikan dengan sambal dan nasi.</item>
+        <item>Ayam goreng adalah potongan ayam yang digoreng hingga kulitnya renyah dan dagingnya empuk. Biasanya disajikan dengan nasi dan sambal.</item>
+        <item>Sayur kangkung adalah masakan sayur yang menggunakan kangkung sebagai bahan utama. Kangkung dimasak bersama bumbu dan saus untuk menciptakan hidangan yang lezat.</item>
+        <item>Mie ayam adalah hidangan mi yang disajikan dengan potongan daging ayam, pangsit, sayuran, dan kuah kaldu.</item>
+        <item>Kentang goreng adalah potongan kentang yang digoreng hingga renyah. Biasanya disajikan sebagai camilan atau pendamping hidangan utama.</item>
+        <item>Ayam bakar adalah potongan ayam yang dibakar atau dipanggang dengan bumbu khas, memberikan cita rasa yang khas dan aroma yang menggoda.</item>
+        <item>Ikan bakar adalah ikan yang dibumbui dan dibakar hingga matang. Disajikan dengan sambal dan nasi, memberikan cita rasa yang kaya.</item>
+        <item>Gado-gado adalah salad sayuran yang dicampur dengan saus kacang khas Indonesia. Biasanya disertai dengan tahu, tempe, dan telur rebus.</item>
+        <item>Sushi adalah hidangan Jepang yang terdiri dari nasi yang dibentuk bersama dengan bahan seperti ikan, daging, sayuran, dan rumput laut.</item>
+        <item>Nasi kuning adalah nasi yang dimasak dengan kunyit, memberikan warna kuning khas. Biasanya disajikan dengan lauk-pauk.</item>
+        <item>Nasi campur adalah hidangan Indonesia yang terdiri dari nasi yang disajikan dengan berbagai macam lauk-pauk seperti ayam, daging, telur, dan sayuran.</item>
+        <item>Nasi goreng adalah nasi yang digoreng bersama dengan bumbu, daging, telur, dan sayuran. Sebuah hidangan khas Indonesia.</item>
+        <item>Coto Makassar adalah sup daging khas Makassar, Indonesia, yang terbuat dari jeroan (organ dalam) sapi yang dimasak dengan bumbu kacang dan rempah-rempah.</item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/bakso</item>
+        <item>@raw/sate</item>
+        <item>@raw/ayam_gep</item>
+        <item>@raw/ayam_goreng</item>
+        <item>@raw/kangkung</item>
+        <item>@raw/mie_ayam</item>
+        <item>@raw/kentang</item>
+        <item>@raw/ayam_bakar</item>
+        <item>@raw/ikan_bakar</item>
+        <item>@raw/gado_gado</item>
+        <item>@raw/sushi</item>
+        <item>@raw/nasi_kuning</item>
+        <item>@raw/nasi_campur</item>
+        <item>@raw/nasi_goreng</item>
+        <item>@raw/coto</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/bakso</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/ayam_gep</item>
+        <item>@drawable/ayam_goreng</item>
+        <item>@drawable/kangkung</item>
+        <item>@drawable/mie_ayam</item>
+        <item>@drawable/kentang</item>
+        <item>@drawable/ayam_bakar</item>
+        <item>@drawable/ikan_bakar</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/sushi</item>
+        <item>@drawable/nasi_kuning</item>
+        <item>@drawable/nasi_campur</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/coto</item>
+    </integer-array>
+
+    <array name="audio_id">
+        <item>@raw/bakso_audio</item>
+        <item>@raw/sate_audio</item>
+        <item>@raw/ayamgeprek_audio</item>
+        <item>@raw/ayamgoreng_audio</item>
+        <item>@raw/kangkung_audio</item>
+        <item>@raw/mie_audio</item>
+        <item>@raw/kentang_audio</item>
+        <item>@raw/ayambakar_audio</item>
+        <item>@raw/ikan_audio</item>
+        <item>@raw/gadogado_audio</item>
+        <item>@raw/sushi_audio</item>
+        <item>@raw/nasikuning_audio</item>
+        <item>@raw/nasicampur_audio</item>
+        <item>@raw/nasigoreng_audio</item>
+        <item>@raw/coto_audio</item>
+    </array>
+</resources>
